@@ -1,0 +1,98 @@
+html>
+    <head>
+        <title> paytm </title>
+        <style>
+            body {
+              background-color: rgb(232, 243, 247);
+            }
+            </style>
+          </head> 
+    
+        <body>
+        
+            
+            <Table cellspacing=20 >
+                <tr> 
+                    <td> <img src= "https://s3.ap-south-1.amazonaws.com/drilersblog/production/uploaded_images/Dec_17_2019_16_38_22.jpg" alt="insta profile pick" class= "center"> </td>
+
+                    <td>
+                         <h1> Vijay shekhar sharma </h1> 
+
+                   <h3> <p>  <em>  Founder and ceo of <strong> <a href="https://paytm.com/">  paytm  </a>  </strong> </em> </p> </h3> 
+
+                    
+
+                  </td>
+
+                </tr>
+            </Table>
+        
+             <hr style="height:2px; width:100%;  color:rgb(8, 6, 6); background-color:black">
+             
+
+             <h3> <a href = "https://en.wikipedia.org/wiki/Education"> education </a> </h3>
+
+             <ul>
+
+             <li> sdm publick school- nursery to second </li>
+             <li> sant mary school- 3 to 5 </li>
+             <li> 6 to 12 from ramshree</li>
+
+             </ul>
+
+               <hr style="height:2px; width:100%;  color:rgb(8, 6, 6); background-color:rgb(2, 2, 2)">
+               
+             <h3> work experience</h3>
+        
+             <table cellspacing =20 >
+                 
+            <thead>
+                     <tr>
+                         <th> dates</th>
+                         <th> times </th>
+                     </tr>
+
+             <tbody>
+                      <tr>
+                     <td> 2019 - 2020 </td>
+                     <td>  working as a developer </td>
+                      </tr>
+
+                      <tr>
+                     <td> 2021 </td>
+                     <td> working as a developer</td>
+                    </tr>
+                     </tbody>
+             </table>
+
+             <hr style="height:2px; width:100%;  color:rgb(8, 6, 6); background-color:rgb(2, 2, 2)">
+
+
+             <h3> skills </h3>
+             <table cellspacing=20
+              >
+                 <tr> 
+                     <td> coding</td>
+                     <td> *****</td>
+                 </tr>
+                 <tr>
+                     <td> web designing</td>
+                     <td> ****</td>
+                 </tr>
+                 <tr>
+                     <td> positivity </td>
+                     <td> *** </td>
+                 </tr>
+                     <td> kavita writing </td>
+                     <td> **<td>
+                 </tr>
+             </table>
+                <hr style="height:2px; width:100%;  color:rgb(8, 6, 6); background-color:rgb(2, 2, 2)">
+
+                
+             <H2><a  href ="paytm.html"> paytm</a> </H2>
+
+       
+
+            </body>
+        </html>  
